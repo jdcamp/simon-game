@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+}
+
+/*.row {
+  width: 50%;
+  margin: 0 auto;
+}*/
+
+
+.col-md-6 {
+  border: 2px solid black;
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+}
+
+.centered {
+  display: block;
+  margin: auto;
+  width: 25%;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background: blue;
+}
+
+#green {
+  background: green;
+}
+
+.opacity {
+  opacity: 0.2;
+}
